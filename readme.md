@@ -23,7 +23,6 @@ The following spaces are governed by the team:
 
 *   GitHub: [github.com/unifiedjs](https://github.com/unifiedjs)
 *   npm: [npmjs.com/~unifiedjs](https://www.npmjs.com/org/unifiedjs)
-*   Spectrum: [spectrum.chat/unified/unified](https://spectrum.chat/unified/unified)
 
 ## License
 
